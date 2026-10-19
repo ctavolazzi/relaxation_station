@@ -24,3 +24,4 @@ written down with the date they were read.
 - Do people come back, and how many?
 - What do the comments say? Do viewers say they felt heard?
 - Is ten minutes right, or do viewers want shorter or longer?
+- 2026-10-19  An endless jungle river boat ride (three.js) as a calm visual: a background for an episode, or an episode of its own. First version: https://claude.ai/artifact/MVTqUyMqSBHzB1yEWGyGpp
