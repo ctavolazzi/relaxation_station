@@ -13,6 +13,7 @@ when the host picks it. Lines marked (seed) are the session's suggestions, not t
 - 2026-10-18  (seed) Link the Relaxation Station playlist from thecoffeejesus.com once there are a few episodes.
 - 2026-10-19  (seed) The companion app: the videos, two-way. Five calm screens the model can draw (breath, check-in, wishes, cup, meeting) in the host's voice. See docs/roadmap.md, phase 2.
 - 2026-10-19  (seed) Each new Turn written once, used twice: an episode and an app mode.
+- 2026-10-19  (seed) An endless jungle river boat ride (three.js) as a calm visual: a background for an episode, or an episode of its own. First version: https://claude.ai/artifact/MVTqUyMqSBHzB1yEWGyGpp
 
 ## Open questions the first episodes can answer
 
@@ -24,4 +25,3 @@ written down with the date they were read.
 - Do people come back, and how many?
 - What do the comments say? Do viewers say they felt heard?
 - Is ten minutes right, or do viewers want shorter or longer?
-- 2026-10-19  An endless jungle river boat ride (three.js) as a calm visual: a background for an episode, or an episode of its own. First version: https://claude.ai/artifact/MVTqUyMqSBHzB1yEWGyGpp
