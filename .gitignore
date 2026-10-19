@@ -1,0 +1,16 @@
+# Raw footage, renders and audio work files stay on the host's machine. Thumbnails (jpg, png) are committed.
+*.mp4
+*.mov
+*.m4v
+*.mkv
+*.wav
+*.m4a
+*.aac
+*.mp3
+raw/
+renders/
+faces/
+
+# Secrets and noise
+.env
+.DS_Store
