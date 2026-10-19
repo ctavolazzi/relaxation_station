@@ -15,6 +15,7 @@ when the host picks it. Lines marked (seed) are the session's suggestions, not t
 - 2026-10-19  (seed) Each new Turn written once, used twice: an episode and an app mode.
 - 2026-10-19  (seed) An endless jungle river boat ride (three.js) as a calm visual: a background for an episode, or an episode of its own. First version: https://claude.ai/artifact/MVTqUyMqSBHzB1yEWGyGpp
 - 2026-10-19  A sibling series, not Relaxation Station (it gives advice, which this series rules out): teach the viewer to start a YouTube channel and sell through a first online storefront. Calm, reassuring vlog about real life (no flexing), then a review of a few channels the host thinks are doing good work (curation is the value: "I look through what's on the ground to find you treasure"), then specific strategy recommendations for people refining their own. Deliberately low production, to keep the host's own cycle light. Host's words, 2026-10-19. Now planned in `ctavolazzi/thecoffeejesus`, `series/first-channel-first-store/`, around the host's 321 CBA method (one long video a day worked into 2 shorts and 3 photo posts; Content Before Advertising).
+- 2026-10-19  Cut to the chase: make the channel about building the solarpunk future, reviewing how individuals, groups and teams already are, to help people make things happen. "We all want a better life." The book (Surviving the Singularity) is the thing to sell. The host asked: "What am I doing?? Am I hedging???"
 
 ## Open questions the first episodes can answer
 
