@@ -9,6 +9,16 @@ session chose a first guess so work could keep moving. Assumed decisions are the
 
 ---
 
+### D11 · Relaxation Station is a format under the channel's thesis (2026-10-19)
+
+**Decided:** the channel has one thesis, "What if you could build the world you want to live in?", and
+Relaxation Station is one of its formats: the rest stop, calm company between builds. Its rules here still
+govern its episodes, including "empathy, not advice". The channel plan lives in `ctavolazzi/thecoffeejesus`,
+`series/build-the-world/`.
+**Source:** user, 2026-10-19: "go, fold everything in under the thesis."
+**Why:** every project on the channel points at the same idea; one thesis makes them doors into one house.
+**Revisit:** if the rest stop stops serving the thesis.
+
 ### D10 · Visual work is judged by looking at it (2026-10-19)
 
 **Decided:** anything people watch (a scene, a thumbnail, an overlay) is checked by rendering it at the

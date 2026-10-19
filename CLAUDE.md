@@ -4,6 +4,11 @@ Home base for **Relaxation Station**: calm, simple videos on The Coffee Jesus ch
 looks at the camera and keeps the viewer company in a slow, kind voice. Empathy, no more and no less. No
 new persona, no big production. Keep it simple, silly.
 
+**2026-10-19: a format under the channel's thesis.** The Coffee Jesus channel now has one thesis, "What if
+you could build the world you want to live in?", and Relaxation Station is its rest stop: calm company between
+builds. The channel plan lives in `ctavolazzi/thecoffeejesus`, `series/build-the-world/`. Everything in this
+repo still governs Relaxation Station episodes, including "empathy, not advice". See D11.
+
 **New session? Read this file, then `docs/format.md`, then the latest entry in `docs/history/`, then skim
 the `checklist.md` in each folder under `episodes/`.** That is enough to pick up where the last session stopped.
 

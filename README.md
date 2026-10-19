@@ -5,6 +5,11 @@ pace, like a good friend keeping you company while you decompress or start your 
 
 Empathy, no more and no less. No new persona. No big production. Keep it simple, silly.
 
+**2026-10-19: a format under the channel's thesis.** The Coffee Jesus channel now has one thesis, "What if
+you could build the world you want to live in?", and Relaxation Station is its rest stop: calm company between
+builds. The channel plan lives in `ctavolazzi/thecoffeejesus`, `series/build-the-world/`. Everything in this
+repo still governs Relaxation Station episodes, including "empathy, not advice". See D11.
+
 This repo is the home base: the format, the episode run sheets, the packaging rules, and the record of
 what we decided and why. It is also a stepping stone. The end game is the host's to share, so everything
 here is built in small pieces that carry forward whatever it turns out to be.
