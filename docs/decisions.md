@@ -9,6 +9,16 @@ session chose a first guess so work could keep moving. Assumed decisions are the
 
 ---
 
+### D10 · Visual work is judged by looking at it (2026-10-19)
+
+**Decided:** anything people watch (a scene, a thumbnail, an overlay) is checked by rendering it at the
+viewer's screen size and reading the image, not only by tests that the controls work.
+**Source:** user ("idk what control tests you're running to make it "good" but they're not working"); the
+method is assumed.
+**Why:** the jungle river passed 20 of 20 control checks while the water was banded, the trees looked like
+rocks and the river ended at a bare horizon.
+**Revisit:** never as a rule; the method can change.
+
 ### D9 · A care line in every description (2026-10-18)
 
 **Decided:** descriptions end with: this is company, not care; reach out to someone you trust; in crisis,
