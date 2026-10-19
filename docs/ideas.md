@@ -14,6 +14,7 @@ when the host picks it. Lines marked (seed) are the session's suggestions, not t
 - 2026-10-19  (seed) The companion app: the videos, two-way. Five calm screens the model can draw (breath, check-in, wishes, cup, meeting) in the host's voice. See docs/roadmap.md, phase 2.
 - 2026-10-19  (seed) Each new Turn written once, used twice: an episode and an app mode.
 - 2026-10-19  (seed) An endless jungle river boat ride (three.js) as a calm visual: a background for an episode, or an episode of its own. First version: https://claude.ai/artifact/MVTqUyMqSBHzB1yEWGyGpp
+- 2026-10-19  A sibling series, not Relaxation Station (it gives advice, which this series rules out): teach the viewer to start a YouTube channel and sell through a first online storefront. Calm, reassuring vlog about real life (no flexing), then a review of a few channels the host thinks are doing good work (curation is the value: "I look through what's on the ground to find you treasure"), then specific strategy recommendations for people refining their own. Deliberately low production, to keep the host's own cycle light. Host's words, 2026-10-19.
 
 ## Open questions the first episodes can answer
 
