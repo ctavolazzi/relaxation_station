@@ -11,6 +11,8 @@ when the host picks it. Lines marked (seed) are the session's suggestions, not t
 - 2026-10-18  (seed) A weekly ritual: the same day and time, an appointment to look forward to.
 - 2026-10-18  (seed) Read a few kind comments aloud at the end. Needs a moderation and privacy plan first.
 - 2026-10-18  (seed) Link the Relaxation Station playlist from thecoffeejesus.com once there are a few episodes.
+- 2026-10-19  (seed) The companion app: the videos, two-way. Five calm screens the model can draw (breath, check-in, wishes, cup, meeting) in the host's voice. See docs/roadmap.md, phase 2.
+- 2026-10-19  (seed) Each new Turn written once, used twice: an episode and an app mode.
 
 ## Open questions the first episodes can answer
 

@@ -53,6 +53,7 @@ docs/production.md           record anywhere, finish, upload
 docs/packaging.md            titles, descriptions, thumbnails
 docs/origin.md               the idea in the host's words, verbatim
 docs/ideas.md                inbox and open questions
+docs/roadmap.md              the proposed path to the end game (a proposal, not a decision)
 docs/decisions.md            numbered decisions
 docs/history/                one entry per session
 episodes/_template/          run-sheet.md, packaging.md, checklist.md

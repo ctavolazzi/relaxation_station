@@ -38,6 +38,7 @@ Details are in `docs/production.md` and `docs/packaging.md`.
 | `docs/packaging.md` | titles, descriptions, and thumbnails (the thumbnail rule lives here) |
 | `docs/origin.md` | the idea in the host's own words, verbatim: the voice reference |
 | `docs/ideas.md` | the inbox for ideas, and the questions the first episodes can answer |
+| `docs/roadmap.md` | the proposed path from the videos to the end game, in phases with gates |
 | `docs/decisions.md` | what we decided, why, and what would change our minds |
 | `docs/history/` | one entry per working session |
 | `episodes/001-recenter-with-me/` | the first episode, ready to record |
